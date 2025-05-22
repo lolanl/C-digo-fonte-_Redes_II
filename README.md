@@ -2,11 +2,11 @@
    
 # Justificativa do Protocolo Escolhido:
 
-#1- Utilizou-se o UDP para a comunicação entre roteadores pelos seguintes motivos:
+1- Utilizou-se o UDP para a comunicação entre roteadores pelos seguintes motivos:
 
-#2- Baixa sobrecarga: UDP é mais leve, ideal para troca rápida e contínua de pacotes de estado de enlace.
+2- Baixa sobrecarga: UDP é mais leve, ideal para troca rápida e contínua de pacotes de estado de enlace.
 
-#3- Simulação de perda: É possível simular falhas ou pacotes perdidos sem complexidade adicional. Não exige conexão persistente, tornando a simulação mais flexível.
+3- Simulação de perda: É possível simular falhas ou pacotes perdidos sem complexidade adicional. Não exige conexão persistente, tornando a simulação mais flexível.
 
 # Como a Topologia foi Construída:
 # A rede é composta por múltiplas subredes, cada uma com:
